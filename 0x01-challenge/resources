@@ -1,2 +1,18 @@
-Explains Flask Blueprint
+Explains Flask Blueprint <br>
 https://realpython.com/flask-blueprint/
+
+Explains Peer Dependencies, the error associated with it and the difference between
+--legacy-peer-deps and --force in npm <br>
+https://weekendprojects.dev/posts/how-to-use-npm-legacy-peer-deps-command/
+
+To check for peer dependencies of a package <br>
+`npm info name-of-module peerDependencies`
+
+Dependency hell for old projects like this one (rant) <br>
+https://gomakethings.com/dependency-hell/
+
+lightweight config solution <br>
+https://gomakethings.com/my-build-tool-boilerplate-goes-v2/
+
+The importance of having package-lock.json to help with dependency hell <br>
+https://www.atatus.com/blog/package-json-vs-package-lock-json/#:~:text=your%20entire%20problem.-,package%2Dlock.,sub%2Ddependencies%20and%20their%20versions.
